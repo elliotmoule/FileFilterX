@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFilterX.ExampleProject.WPF", "FileFilterX.ExampleProject.WPF\FileFilterX.ExampleProject.WPF.csproj", "{FAE7E5A9-AD43-49D7-AB5C-025972C60DF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFilterX.Library", "FileFilterX.Library\FileFilterX.Library.csproj", "{E470057D-FCED-4C22-8BFB-34712120CDC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE7E5A9-AD43-49D7-AB5C-025972C60DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE7E5A9-AD43-49D7-AB5C-025972C60DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE7E5A9-AD43-49D7-AB5C-025972C60DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE7E5A9-AD43-49D7-AB5C-025972C60DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E470057D-FCED-4C22-8BFB-34712120CDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E470057D-FCED-4C22-8BFB-34712120CDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E470057D-FCED-4C22-8BFB-34712120CDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E470057D-FCED-4C22-8BFB-34712120CDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8906236-7020-42EC-B2A8-A04ABF3A085C}
+	EndGlobalSection
+EndGlobal
